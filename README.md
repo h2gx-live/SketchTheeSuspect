@@ -1,2 +1,2 @@
 # SketchTheeSuspect
-When a line sketch actually looks like the suspect
+When a stick figure sketch actually looks like the suspect
